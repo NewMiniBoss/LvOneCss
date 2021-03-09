@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"Bootstrap"
+			],
+			[
+				"h",
+				"http-equiv\tAttr"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"al",
+				"alternate\tanimation-direction"
+			],
+			[
+				"anim",
+				"animation-direction\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"abs",
+				"absoluta"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"Q",
+				"quem_somos"
+			],
+			[
+				"a",
+				"align\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gabri/Desktop/Bootstrap-grid/estilo.css",
+		"/C/Users/Gabri/Desktop/Bootstrap-grid/index.html",
+		"/C/Users/Gabri/Desktop/ProjetoBootstrap/Bootstrap/index.html",
+		"/C/Users/Gabri/Desktop/ProjetoBootstrap/estilo.css",
+		"/C/Users/Gabri/Desktop/Bootstrap/index.html",
+		"/C/Users/Gabri/Desktop/CSS3/transicao.html",
+		"/C/Users/Gabri/Desktop/CSS3/CSS/estilo.css",
+		"/C/Users/Gabri/Desktop/CSS3/animação.html",
+		"/C/Users/Gabri/Desktop/CSS3/sombras.html",
+		"/C/Users/Gabri/Desktop/CSS3/border-box-radius.html",
+		"/C/Users/Gabri/Desktop/CSS3/normalize.html",
+		"/C/Users/Gabri/Desktop/CSS3/degrade-transparencia.html",
+		"/C/Users/Gabri/Desktop/CSS3/CSS/normalize.css",
+		"/C/Users/Gabri/Desktop/CSS3/normalize.css",
+		"/C/Users/Gabri/Desktop/CSS3/estilo.css/estilo.css",
+		"/C/Users/Gabri/Desktop/CSS3/img/css/estilo.css",
+		"/C/Users/Gabri/Desktop/CSS3/img/camera.png",
+		"/C/Users/Gabri/Desktop/CSS3/estilo.css",
+		"/C/Users/Gabri/Desktop/CSS3/ccs/estilo.css",
+		"/C/Users/Gabri/Desktop/CSS3/index.html",
+		"/C/Users/Gabri/Desktop/HTML5/atributos-data-costumizados.html",
+		"/C/Users/Gabri/Desktop/HTML5/novas-tag-input.html",
+		"/C/Users/Gabri/Desktop/HTML5/js/html5shiv.js",
+		"/C/Users/Gabri/Desktop/HTML5/novas-tag.html",
+		"/C/Users/Gabri/Desktop/Tec_Blog/eletronicos.html",
+		"/C/Users/Gabri/Desktop/Tec_Blog/CSS/estilo.css",
+		"/C/Users/Gabri/Desktop/Tec_Blog/index.html",
+		"/C/Users/Gabri/Desktop/CSS/CCS.Externo.html",
+		"/C/Users/Gabri/Desktop/CSS/CSS.Externo2.html",
+		"/C/Users/Gabri/Desktop/CSS/Estilo.CSS.html",
+		"/C/Users/Gabri/Desktop/CSS/links.html",
+		"/C/Users/Gabri/Desktop/CSS/posicionamento.html",
+		"/C/Users/Gabri/Desktop/CSS/Galeria.html",
+		"/C/Users/Gabri/Desktop/CSS/Paginas-Flutuantes.html",
+		"/C/Users/Gabri/Desktop/CSS/Modelo-de-Caixa.html",
+		"/C/Users/Gabri/Desktop/CSS/formatacao-texto.html",
+		"/C/Users/Gabri/Desktop/CSS/fontes-cores.html",
+		"/C/Users/Gabri/Desktop/CSS/bordas.html",
+		"/C/Users/Gabri/Desktop/CSS/span-div.html",
+		"/C/Users/Gabri/Desktop/CSS/inline_style.html",
+		"/C/Users/Gabri/Desktop/CSS/style_inline",
+		"/C/Users/Gabri/Desktop/HTML/Projeto Final HTML/Quem_somos.html",
+		"/C/Users/Gabri/Desktop/HTML/Projeto Final HTML/contato.html",
+		"/C/Users/Gabri/Desktop/HTML/Projeto Final HTML/index.html",
+		"/C/Users/Gabri/Desktop/HTML/Projeto Final HTML/quem-somos.html",
+		"/C/Users/Gabri/Desktop/HTML/Projeto Final HTML/Quem-somos.html",
+		"/C/Users/Gabri/Desktop/HTML/Projeto Final HTML/Projeto Final/index.html",
+		"/C/Users/Gabri/Desktop/HTML/Primeiro Projeto/Caracteres.html",
+		"/C/Users/Gabri/Desktop/HTML/Primeiro Projeto/contato.html",
+		"/C/Users/Gabri/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "span-div.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
